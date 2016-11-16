@@ -2,4 +2,4 @@
 Dependencies:
 
     PHP Server
-    Maven
+    Java 5+
