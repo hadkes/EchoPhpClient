@@ -1,0 +1,1 @@
+mvn exec:java -Dexec.mainClass="edu.tcd.scss.nds.echo.client.EchoClientToPhpServer"
